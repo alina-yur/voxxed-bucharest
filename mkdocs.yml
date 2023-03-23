@@ -1,5 +1,5 @@
-site_name: Voxxed Days Zurich
-site_url: https://alina-yur.github.io/voxxed-zurich
+site_name: Voxxed Days Bucharest
+site_url: https://alina-yur.github.io/voxxed-bucharest/
 theme:
   name: material
   icon:
@@ -21,8 +21,8 @@ extra:
 plugins:
   - social
   - search
-repo_url: https://github.com/alina-yur/voxxed-zurich
-repo_name: alina-yur/voxxed-zurich
+repo_url: https://github.com/alina-yur/voxxed-bucharest/
+repo_name: alina-yur/voxxed-bucharest/
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
