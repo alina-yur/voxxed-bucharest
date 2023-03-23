@@ -1,0 +1,30 @@
+site_name: Voxxed Days Zurich
+site_url: https://alina-yur.github.io/voxxed-zurich
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+  favicon: assets/images/favicon.png
+  font:
+    text: Open Sans 
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+extra:
+  analytics:
+    provider: google
+    property: G-D5MSF4CYKX
+plugins:
+  - social
+  - search
+repo_url: https://github.com/alina-yur/voxxed-zurich
+repo_name: alina-yur/voxxed-zurich
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
