@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-## Awesome Java applications with GraalVM and Java microservices frameworks
+## Supercharge your Native Image applications in 5 steps
 
 Thank you for coming to this talk! If you have any more questions: [@alina_yurenko](https://twitter.com/alina_yurenko)
 
@@ -12,7 +12,7 @@ Thank you for coming to this talk! If you have any more questions: [@alina_yuren
 <img src="graalvm-voxxed-bucharest.png"  width="1000">
 </a>
 
-[Download the presentation →](AWESOME-JAVA-FRAMEWORKS-VD-ZURICH.pdf)
+[Download the presentation →](SUPERCHARGE-VD-Bucharest.pdf)
 
 --------------
 
